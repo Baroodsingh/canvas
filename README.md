@@ -1,5 +1,5 @@
 # canvas
-my basic canvas projects
+My basic canvas projects
 These are my very first HTML5 works.
 I have done this within the 2 days after I heared about HTML5 Canvas
 The first one is a html canvas page I designed.
