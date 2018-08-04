@@ -132,7 +132,7 @@
 
  		circleArray = [];
 
- 	for (var i = 0; i < 2000; i++) {
+ 	for (var i = 0; i < 1500; i++) {
 
  		var radius = Math.random() * 3 + 1;
 
